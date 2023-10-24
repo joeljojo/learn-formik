@@ -1,4 +1,13 @@
-# React + Vite
+# Handling forms using Formik
+
+Formik library provides efficiency, performance, and easier form handling.
+
+Formik enables easier form value handling, input validation, and error reporting on inputs.
+
+You can find out more about form Handling using Formik [here](https://formik.org/docs/overview)
+
+
+You can also learn how to easily handle validations using `validateSchema`
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
